@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "1d84c9c4-9a8c-467e-970a-5beb9b0fb405",
+		"name": "HTTP Method",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "36148504"
+	},
+	"item": [
+		{
+			"name": "Google Response",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.google.com/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"google",
+						"com"
+					],
+					"path": [
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
